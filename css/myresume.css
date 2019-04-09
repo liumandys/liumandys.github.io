@@ -10,3 +10,7 @@ h6{font-family: 'Noto Sans TC', sans-serif;}
 .pl{
 	font-size:1.5rem;
 }
+
+table,th,td{
+	text-align: left
+}
