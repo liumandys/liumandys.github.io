@@ -16,7 +16,7 @@ table,th,td{
 }
 
 .subheading {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif!important;
     font-size: 1.2rem;
     text-transform: none;
     letter-spacing: -0.05rem;
